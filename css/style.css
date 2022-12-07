@@ -94,6 +94,11 @@ h1
   margin-top: 50px;
 }
 
+.fullcap img{
+width:400px;
+height : auto;
+}
+ 
 .form h1{
   font-size: 24px;
   animation-duration: 3s;
@@ -611,6 +616,11 @@ margin:50px;
 
 .fav-cards h1{
   padding-left: 0px;
+}
+    
+ .fullcap img{
+width:80%;
+height : auto;
 }
 
 }
