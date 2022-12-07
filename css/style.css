@@ -387,7 +387,7 @@ footer{
     background: black;
     height: auto;
     padding-top: 40px;
-    color: #fff;
+    color: white;
 }
 .footer-content{
     display: flex;
@@ -407,7 +407,7 @@ footer{
     margin: 10px auto;
     line-height: 28px;
     font-size: 14px;
-    color: #cacdd2;
+    color: white;
 }
 .socials{
     list-style: none;
@@ -454,7 +454,7 @@ float: left;
     text-transform: capitalize;
 }
 .footer-bottom p a{
-  color:#44bae8;
+  color:white;
   font-size: 16px;
   text-decoration: none;
 }
@@ -472,7 +472,7 @@ padding-right: 10px;
 display: block;
 }
 .footer-menu ul li a{
-  color: #cfd2d6;
+  color: white;
   text-decoration: none;
 }
 .footer-menu ul li a:hover{
