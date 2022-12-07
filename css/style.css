@@ -353,7 +353,7 @@ input[type=email], select {
   box-sizing: border-box;
   font-family: 'Gill Sans';
   font-size: 16px;
-  background-color:#F3F3F3;
+ 
 }
 
 textarea{
@@ -366,7 +366,7 @@ textarea{
   box-sizing: border-box;
   font-family: 'Gill Sans';
   font-size: 16px;
-  background-color:#F3F3F3;
+ 
 
 }
 
@@ -383,12 +383,8 @@ button[type=submit] {
   cursor: pointer;
 }
 
-:-ms-input-placeholder 
- color: black;
-}
-
-::-ms-input-placeholder 
- color: black;
+::placeholder {
+  color: black;
 }
 
 footer{
