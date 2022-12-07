@@ -425,7 +425,7 @@ footer{
 }
 .socials a{
     text-decoration: none;
-    color: #fff;
+    color: white;
     border: 1.1px solid white;
     padding: 5px;
 
@@ -482,6 +482,7 @@ display: block;
 .footer-menu ul li a:hover{
   color: #27bcda;
 }
+
 
 .flex-container{
   display:flex;
