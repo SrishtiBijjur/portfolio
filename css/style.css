@@ -391,7 +391,7 @@ button[type=submit] {
 }
 
 ::placeholder {
-  color: black;
+  color: white;
 }
 
 footer{
