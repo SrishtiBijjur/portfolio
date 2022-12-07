@@ -94,10 +94,11 @@ h1
   margin-top: 50px;
 }
 
-.fullcap img{
-width:400px;
-height : auto;
+.fullwrap img{
+  width:300px;
+  height:auto;
 }
+
  
 .form h1{
   font-size: 24px;
@@ -358,7 +359,7 @@ input[type=email], select {
   box-sizing: border-box;
   font-family: 'Gill Sans';
   font-size: 16px;
-  background-color:#2D9582;
+  background-color:white;
  
 }
 
@@ -372,7 +373,7 @@ textarea{
   box-sizing: border-box;
   font-family: 'Gill Sans';
   font-size: 16px;
-  background-color:#2D9582;
+  background-color:white;
  
 
 }
@@ -391,7 +392,7 @@ button[type=submit] {
 }
 
 ::placeholder {
-  color: white;
+  color: black;
 }
 
 footer{
@@ -618,9 +619,11 @@ margin:50px;
   padding-left: 0px;
 }
     
- .fullcap img{
-width:80%;
-height : auto;
+.fullwrap img{
+  width:500px;
+  height:auto;
+}
+
 }
 
 }
@@ -644,6 +647,12 @@ height : auto;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, 1fr);
 }
+    
+  .fullwrap img{
+  width:800px;
+  height:auto;
+}
+
 
   }
 
