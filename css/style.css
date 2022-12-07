@@ -626,7 +626,6 @@ margin:50px;
 
 }
 
-}
 
 
 @media screen and (min-width: 992px){
@@ -647,13 +646,10 @@ margin:50px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, 1fr);
 }
-    
-  .fullwrap img{
-  width:800px;
+ .fullwrap img{
+  width:500px;
   height:auto;
 }
-
-
   }
 
 
